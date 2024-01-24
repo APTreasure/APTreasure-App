@@ -1,4 +1,8 @@
 # APTreasure App
+
+### [Releases](https://github.com/APTreasure-App/Releases)
+
+
  
 [Inno Setup](https://jrsoftware.org/isinfo.php) is required for modifying/compiling the setup.
  

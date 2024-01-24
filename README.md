@@ -1,6 +1,6 @@
 # APTreasure App
 
-### [Downloads](https://github.com/APTreasure/APTreasure-App/releases)  |  [Website Version](https://aptreasure.github.io)
+###  |  [Downloads](https://github.com/APTreasure/APTreasure-App/releases)  |  [Website Version](https://aptreasure.github.io)  |  [Troubleshooting (Down)](https://github.com/APTreasure/APTreasure-App)  |  
 
 <br>
 

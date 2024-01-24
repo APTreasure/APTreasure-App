@@ -1,6 +1,6 @@
 # APTreasure App
 
-### [Releases]([https://github.com/APTreasure-App/Releases](https://github.com/APTreasure/APTreasure-App/releases))
+[Releases]([https://github.com/APTreasure-App/Releases](https://github.com/APTreasure/APTreasure-App/releases))
 
 <br>
  

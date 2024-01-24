@@ -1,8 +1,10 @@
 # APTreasure App
 
-### [Releases](https://github.com/APTreasure/APTreasure-App/releases)
+### [Downloads](https://github.com/APTreasure/APTreasure-App/releases)
 
 <br>
+
+### How to Modify & Compile (Not required to download!)
  
 [Inno Setup](https://jrsoftware.org/isinfo.php) is required for modifying/compiling the setup.
  

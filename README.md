@@ -4,8 +4,6 @@
 
 <br>
 
-<br>
-
 ### How to Modify & Compile (Not required to download!)
  
 [Inno Setup](https://jrsoftware.org/isinfo.php) is required for modifying/compiling the setup.
